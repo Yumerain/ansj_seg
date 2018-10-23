@@ -38,11 +38,11 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>org.nlpcn</groupId>
-			<artifactId>nlp-lang</artifactId>
-			<version>1.7.8</version>
-			<scope>compile</scope>
+		    <groupId>org.nlpcn</groupId>
+		    <artifactId>nlp-lang</artifactId>
+		    <version>1.7.7</version>
 		</dependency>
+
 
 		<dependency>
 			<groupId>junit</groupId>
